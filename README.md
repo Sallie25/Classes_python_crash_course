@@ -1,0 +1,1 @@
+# This folder consist of all the practice work done whilst trying to understand Classes with the help of "Python crash course by Erich Matthes"
