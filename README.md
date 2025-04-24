@@ -43,6 +43,11 @@ All practice content is inspired by and derived from:
 > A beginner-friendly guide to programming with Python, covering everything from basic syntax to building projects.
 
 ---
+## Installation & Setup
+To run the code in this repository, please make sure you have Python installed on your system. I used **VS Code** as my code editor. Follow these steps to set up:
+
+1. Install Python from [python.org](https://www.python.org/downloads/)
+2. Install VS Code from [code.visualstudio.com](https://code.visualstudio.com/)
 
 ## 🚀 How to Use
 
