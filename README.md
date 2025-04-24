@@ -1,20 +1,18 @@
-
-
-# 🐍 Classes Practice – *Python Crash Course* by Eric Matthes
+#  Classes Practice – *Python Crash Course* by Eric Matthes
 
 Welcome to the **Classes Practice Repository**, a collection of exercises and hands-on code samples created while studying **object-oriented programming in Python** using the book *Python Crash Course* by **Eric Matthes**.
 
-📘 GitHub Repository: [Sallie25/Classes_python_crash_course](https://github.com/Sallie25/Classes_python_crash_course.git)
+ GitHub Repository: [Sallie25/Classes_python_crash_course](https://github.com/Sallie25/Classes_python_crash_course.git)
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 This folder contains all the practice work completed while learning about **Python Classes**. The code examples are based on both structured exercises and personal experiments, all aimed at mastering how classes work in Python.
 
 ---
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 - Defining and instantiating classes
 - Creating and using attributes and methods
@@ -27,15 +25,20 @@ This folder contains all the practice work completed while learning about **Pyth
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Strengthen understanding of Object-Oriented Programming (OOP) in Python
 - Build foundational knowledge for writing modular, reusable code
 - Practice through guided examples and custom experimentation
 
 ---
+## Installation & Setup
+To run the code in this repository, please make sure you have Python installed on your system. I used **VS Code** as my code editor. Follow these steps to set up:
 
-## 📚 Reference
+1. Install Python from [python.org](https://www.python.org/downloads/)
+2. Install VS Code from [code.visualstudio.com](https://code.visualstudio.com/)
+
+##  Reference
 
 All practice content is inspired by and derived from:
 
@@ -44,7 +47,7 @@ All practice content is inspired by and derived from:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone the repository:
    ```bash
