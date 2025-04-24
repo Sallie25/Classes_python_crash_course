@@ -1,5 +1,3 @@
-
-
 # 🐍 Classes Practice – *Python Crash Course* by Eric Matthes
 
 Welcome to the **Classes Practice Repository**, a collection of exercises and hands-on code samples created while studying **object-oriented programming in Python** using the book *Python Crash Course* by **Eric Matthes**.
